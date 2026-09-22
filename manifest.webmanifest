@@ -1,0 +1,19 @@
+{
+  "name": "Meu Acadêmico",
+  "short_name": "Meu Acadêmico",
+  "description": "Organizador simples de tarefas e entregas da faculdade.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#eef2ed",
+  "theme_color": "#5f7d69",
+  "lang": "pt-BR",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
